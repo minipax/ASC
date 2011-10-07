@@ -1,0 +1,74 @@
+Anonymous Social Contract (ASC)
+
+"No government has the right to obedience from a people, who have not freely consented to it." (John Locke)
+
+Purpose:
+-----
+1) To create a safe anonymous environment where people can express their views free from persecution
+2) To allow ordinary people the tools to create and vote on issues
+3) To create an evolving document that stands for the beliefs of those connected
+
+Architeture
+-----
+1) From a database point of view everything is a social contract. There are simple one question contracts, and there are complex ones.
+2) When a person votes 2 seperate table will be stored.
+	a) One stores the userid and the topicid (absolutely nothing else to maintain their anonymity)
+	b) Another table stores the user's response, along with a random unique identifier.
+3) Tests must be in place to constantly monitor that there are an equal number of the two tables mentioned in point #2
+4) Vote results will only be public when it reaches a time determined by the creator
+5) There should be a prompt to create a new revision of a social contract once a vote is complete
+6) The site should have a mobile version, if not specific apps
+7) All users of the system should be able to vote on future changes for ASC using the same mechanisms.
+
+Progress
+-----
+Database structure for the social contract is in place, but I'm new to rails. I usually program in .NET. We could switch languages at this point, because I do have a .NET code-first, mvc 4 project. Basically. I have a database model. A solid idea of how the overall architeture should work.
+
+Volunteers:
+-----
+1) Designers, both web and mobile
+2) Developers: Rails, Android, iPhone, .NET, etc.
+3) Testers
+	
+Sample:
+-----
+The Anonymous Social Contract 
+(Almost first draft) Version 0.1
+"No government has the right to obedience from a people, who have not freely consented to it." (John Locke)
+
+This is an attempt to create a peaceful Canadian solution to a growing, worldwide, financial problem. 
+Help us; Be heard. By taking a few moments to answer the questions below, this ASC can make a difference. We can use these to determine how we feel as a collective and what actions must be taken. 
+Take a stand by standing up. Whether it's your fifteen minute break or a fifteen month nap, starting on the fifteenth of October, we will occupy Toronto. Everything counts.
+Do you have debt? 
+Yes | No
+Have you or your family lost 'invested money' from retirement, or savings accounts?
+Yes | No
+Do you think you will ever be able to retire? 
+Yes | No
+Do you believe that the current tax system is fair? 
+Yes | No
+Do you think corporations and the wealthiest 1% of the world should pay higher taxes than the other 99%? 
+Yes | No
+Do you agree that the planned corporate tax cuts must be stopped?
+Yes | No
+Are political parties responding to the needs of individual communities? 
+Yes | No
+Do you agree that any changes to the contract of a government official (raises, bonuses and contract changes) should be approved by the people? 
+Yes | No
+Do you think all government finances and records should be public knowledge and easily accessible? 
+Yes | No
+Are you satisfied with our government's response to the issue of 'climate change'? 
+Yes | No
+Do you think that the animals and land we farm should be treated with more respect? 
+Yes | No
+I would like to include this question on the next contract:
+
+________________________________________________________________________________________________________________________
+I want you to know that your voice matters, no matter who you are.
+
+Each of us is different, unique, and have been affected by the questionable actions of our government. All of us (except the richest 1%) have been forced to sacrifice. Ordinary people get punished for medemeanors like missed payments, while the wealthiest criminals, corporations and 'Banksters' get off with a public apology. Justice is a concept we must revist: We must re-examine the ideas of our ancestors and integrate them with those of our modern times.
+
+I am only one person, and I don't claim to have an answer. The idea or left and right thinking doesn't apply to this mess; We are in this together. Are we really going to continue to let governments decide for us the fate of our health care, enviornment, security, economy, the ability to retire. Our politicians are all free from the fear of unemployment, and are awarded generous pensions. How could they understand our situation? We cannot count on them for a solution. We ask you to gather with us starting October 15th 2011.
+
+*John Locke was a 17th-century English philosopher whose ideas formed the foundation of liberal democracy and greatly influenced both the American and French revolutions. 
+Thanks to Answers.com

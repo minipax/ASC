@@ -1,0 +1,2 @@
+module ReferendumHelper
+end

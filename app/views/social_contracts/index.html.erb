@@ -1,0 +1,27 @@
+<h1>Listing social_contracts</h1>
+
+<table>
+  <tr>
+    <th>Description</th>
+    <th>Conclusion</th>
+    <th>Group</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @social_contracts.each do |social_contract| %>
+  <tr>
+    <td><%= social_contract.description %></td>
+    <td><%= social_contract.conclusion %></td>
+    <td><%= social_contract.group %></td>
+    <td><%= link_to 'Show', social_contract %></td>
+    <td><%= link_to 'Edit', edit_social_contract_path(social_contract) %></td>
+    <td><%= link_to 'Destroy', social_contract, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Social contract', new_social_contract_path %>

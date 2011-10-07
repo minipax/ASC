@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Description:</b>
+  <%= @social_contract.description %>
+</p>
+
+<p>
+  <b>Conclusion:</b>
+  <%= @social_contract.conclusion %>
+</p>
+
+<p>
+  <b>Group:</b>
+  <%= @social_contract.group %>
+</p>
+
+
+<%= link_to 'Edit', edit_social_contract_path(@social_contract) %> |
+<%= link_to 'Back', social_contracts_path %>
