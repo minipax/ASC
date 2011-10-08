@@ -1,9 +1,12 @@
-Anonymous Social Contract (ASC)
+Anonymous Social Contract (ASC) 0.01 Pre-Release Alpha
 
 "No government has the right to obedience from a people, who have not freely consented to it." (John Locke)
 
-Purpose:
+I believe that the only way to achieve real community involvement is to open the voting and decision making process to the people. The challenge is that there are too many corporate interests, and very rich people who have always attempted to circumvent free will. Open source is the only answer that I know that could challenge our opposition. The more people involved in an open project, the less likely a criminal action will take place. People under oppressive regimes are easily silenced without the option voice their opinions. Even our democratic governments threaten to invade our personal lives. Anonymous voting would enable everyone to speak equally.
+
+Goals:
 -----
+
 1) To create a safe anonymous environment where people can express their views free from persecution
 2) To allow ordinary people the tools to create and vote on issues
 3) To create an evolving document that stands for the beliefs of those connected
@@ -22,7 +25,7 @@ Architeture
 
 Progress
 -----
-Database structure for the social contract is in place, but I'm new to rails. I usually program in .NET. We could switch languages at this point, because I do have a .NET code-first, mvc 4 project. Basically. I have a database model. A solid idea of how the overall architeture should work.
+Database structure for the social contract is in place for a simple yes or know type vote, but it does not save. Database diagrams will go up in the next few days. Looking for geeks that want to make a difference...
 
 Volunteers:
 -----
@@ -36,9 +39,9 @@ The Anonymous Social Contract
 (Almost first draft) Version 0.1
 "No government has the right to obedience from a people, who have not freely consented to it." (John Locke)
 
-This is an attempt to create a peaceful Canadian solution to a growing, worldwide, financial problem. 
+This is an attempt to create a peaceful solution to a growing, worldwide, financial problem. 
 Help us; Be heard. By taking a few moments to answer the questions below, this ASC can make a difference. We can use these to determine how we feel as a collective and what actions must be taken. 
-Take a stand by standing up. Whether it's your fifteen minute break or a fifteen month nap, starting on the fifteenth of October, we will occupy Toronto. Everything counts.
+Take a stand by standing up. Whether it's your fifteen minute break or a fifteen month nap, starting on the _________ of October, we will occupy _________. Everything counts.
 Do you have debt? 
 Yes | No
 Have you or your family lost 'invested money' from retirement, or savings accounts?
@@ -68,7 +71,7 @@ I want you to know that your voice matters, no matter who you are.
 
 Each of us is different, unique, and have been affected by the questionable actions of our government. All of us (except the richest 1%) have been forced to sacrifice. Ordinary people get punished for medemeanors like missed payments, while the wealthiest criminals, corporations and 'Banksters' get off with a public apology. Justice is a concept we must revist: We must re-examine the ideas of our ancestors and integrate them with those of our modern times.
 
-I am only one person, and I don't claim to have an answer. The idea or left and right thinking doesn't apply to this mess; We are in this together. Are we really going to continue to let governments decide for us the fate of our health care, enviornment, security, economy, the ability to retire. Our politicians are all free from the fear of unemployment, and are awarded generous pensions. How could they understand our situation? We cannot count on them for a solution. We ask you to gather with us starting October 15th 2011.
+I am only one person, and I don't claim to have an answer. The idea or left and right thinking doesn't apply to this mess; We are in this together. Are we really going to continue to let governments decide for us the fate of our health care, enviornment, security, economy, the ability to retire. Our politicians are all free from the fear of unemployment, and are awarded generous pensions. How could they understand our situation? We cannot count on them for a solution. We ask you to gather with us starting _______________.
 
 *John Locke was a 17th-century English philosopher whose ideas formed the foundation of liberal democracy and greatly influenced both the American and French revolutions. 
 Thanks to Answers.com
